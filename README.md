@@ -18,12 +18,12 @@ GestionTrabajadoresAPI/
 ├── Controllers/
 ├── Data/
 │ ├── Repository/
-│ │ └── IRepository/
+│ │ └── Interfaces/
 │ └── ApplicationDbContext.cs
 ├── DTOs/
 ├── Models/
 └── Services/
-     └── IServices/
+     └── Interfaces/
 ```
 
 ## Funcionalidades principales
